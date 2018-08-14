@@ -307,8 +307,14 @@ Please make sure to read the [Contributing Guide](https://github.com/vuejs/vue/b
 
 Thank you to all the people who already contributed to Vue!
 
-<a href="https://github.com/vuejs/vue/graphs/contributors"><img src="https://opencollective.com/vuejs/contributors.svg?width=890" /></a>
-
+[![0](https://sourcerer.io/fame/sergey48k/vuejs/vue/images/0)](https://sourcerer.io/fame/sergey48k/vuejs/vue/links/0)
+[![1](https://sourcerer.io/fame/sergey48k/vuejs/vue/images/1)](https://sourcerer.io/fame/sergey48k/vuejs/vue/links/1)
+[![2](https://sourcerer.io/fame/sergey48k/vuejs/vue/images/2)](https://sourcerer.io/fame/sergey48k/vuejs/vue/links/2)
+[![3](https://sourcerer.io/fame/sergey48k/vuejs/vue/images/3)](https://sourcerer.io/fame/sergey48k/vuejs/vue/links/3)
+[![4](https://sourcerer.io/fame/sergey48k/vuejs/vue/images/4)](https://sourcerer.io/fame/sergey48k/vuejs/vue/links/4)
+[![5](https://sourcerer.io/fame/sergey48k/vuejs/vue/images/5)](https://sourcerer.io/fame/sergey48k/vuejs/vue/links/5)
+[![6](https://sourcerer.io/fame/sergey48k/vuejs/vue/images/6)](https://sourcerer.io/fame/sergey48k/vuejs/vue/links/6)
+[![7](https://sourcerer.io/fame/sergey48k/vuejs/vue/images/7)](https://sourcerer.io/fame/sergey48k/vuejs/vue/links/7)
 
 ## License
 
